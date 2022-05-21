@@ -278,13 +278,13 @@ p {
    .container {
      width: 50%;
    } 
- };
+ }
 
  @media screen and (min-width: 800px){
   .container {
     width: 40%;
   }
-};
+}
 
   @media screen and (min-width: 1000px){
 
@@ -293,6 +293,6 @@ p {
     }
 
 /*   .formDiv, .container, #form {
-      width: 100px; */
-    };
-  };
+      width: 100px;
+    } */
+  }
